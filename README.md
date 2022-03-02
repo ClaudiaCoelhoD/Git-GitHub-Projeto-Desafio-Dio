@@ -6,4 +6,3 @@ Primeiro Projeto Desafio da Dio sobre Git/GitHub
 [Site Dio.me](https://www.dio.me/)
 
 [Sintaxe Básica MARKDOWN](https://www.markdownguide.org/basic-syntax/)
-
